@@ -43,7 +43,6 @@ I'm currently building hands-on cybersecurity skills through personal projects, 
 ### Programming
 
 * Python
-* C++
 * Bash (Basic)
 
 ### Tools
