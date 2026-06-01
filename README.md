@@ -1,4 +1,4 @@
-## Hi there I'm LxZy 👋
+## Hi there I'm Karim👋
 
 🎓 Computer Science Student
 🔐 Cybersecurity Analyst
